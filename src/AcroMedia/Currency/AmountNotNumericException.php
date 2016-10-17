@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains class \BartFeenstra\Currency\AmountNotNumericException.
+ * Contains class \AcroMedia\Currency\AmountNotNumericException.
  */
 
-namespace BartFeenstra\Currency;
+namespace AcroMedia\Currency;
 
 /**
  * Describes an amount string that is not numeric.

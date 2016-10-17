@@ -1,6 +1,8 @@
 Currency
 ========
 
+This is forked from commercie/currency, which has diverged from bartfeenstra/currency. This is the version required by [Currency](https://drupal.org/project/currency) if you're using [Composer Manager](https://drupal.org/project/composer_manager) instead of the module's built-in autoloader and vendor dir.
+
 # Introduction
 A language-independent library that provides metadata for current and historic
 currencies:
@@ -14,9 +16,9 @@ currencies:
 # Usage
 * Currency information is stored in YAML files in `/resources`.
 * PHP helpers:
-  * `\BartFeenstra\Currency\Currency` is a basic class that serves as a container and a controller for
+  * `\AcroMedia\Currency\Currency` is a basic class that serves as a container and a controller for
 working with the YAML resources.
-  * `\BartFeenstra\Curency\Input` contains a parser for user input.
+  * `\AcroMedia\Curency\Input` contains a parser for user input.
 
 # Requirements
 The library does not have any global requirements.
@@ -33,5 +35,5 @@ The library does not have any global requirements.
 
 # Integrates with
 * [Composer](http://getcomposer.org) (as
-[bartfeenstra/currency](https://packagist.org/packages/bartfeenstra/currency))
-* [Drupal](http://drupal.org) (through [Currency](http://drupal.org/project/currency))
+[acromedia/currency](https://packagist.org/packages/acromedia/currency))
+* [Drupal](https://drupal.org) (through [Currency](https://drupal.org/project/currency))

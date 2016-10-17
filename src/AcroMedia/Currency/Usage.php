@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains class \BartFeenstra\Currency\Currency.
+ * Contains class \AcroMedia\Currency\Currency.
  */
 
-namespace BartFeenstra\Currency;
+namespace AcroMedia\Currency;
 
 /**
  * Describes a currency's usage in a country.

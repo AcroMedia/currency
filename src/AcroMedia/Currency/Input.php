@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains class \BartFeenstra\Currency\Input.
+ * Contains class \AcroMedia\Currency\Input.
  */
 
-namespace BartFeenstra\Currency;
+namespace AcroMedia\Currency;
 
 /**
  * Helpers for parsing user input.

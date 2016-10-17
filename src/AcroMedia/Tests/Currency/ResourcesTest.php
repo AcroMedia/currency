@@ -2,12 +2,12 @@
 
 /**
  * @file
- * Contains class \BartFeenstra\Tests\Currency\Resources.
+ * Contains class \AcroMedia\Tests\Currency\Resources.
  */
 
-namespace BartFeenstra\Tests\Currency;
+namespace AcroMedia\Tests\Currency;
 
-use BartFeenstra\Currency\Currency;
+use AcroMedia\Currency\Currency;
 
 require_once __DIR__ . '/../../../../vendor/autoload.php';
 
